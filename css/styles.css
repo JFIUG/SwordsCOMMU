@@ -49,7 +49,7 @@ header li a {
 /* ********************* principle image ****************** */
 #imagePrincipale {
     padding-top: 60px;
-    background: url(../IMG/Capture\ d’écran\ 2022-06-11\ à\ 19.05.36.png) no-repeat 50% 50%;
+    background: url(../IMG/ok.png) no-repeat 50% 50%;
     background-size: cover;
     height: 799px;
 }
